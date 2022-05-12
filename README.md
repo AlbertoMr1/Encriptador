@@ -7,3 +7,6 @@ Para este proyecto lo que se utilizó es HTML, CSS y JavaScript como principales
 
 Para poder utilizar este encriptador, el texto ingresado no debe de contener letras con acentos ni tampoco letras mayúsculas.
 Se podrá copiar el texto encriptado o desencriptado usando un simple botón.
+
+Si deseas hecharle un vistazo al proyecto, revisa el siguiente link:
+                https://albertomr1.github.io/Encriptador/
